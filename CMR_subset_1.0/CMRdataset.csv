@@ -1,0 +1,119 @@
+uid,fullID,MBID of the recording,Name,Artist,Release+Volume,Lead Instrument Code,Taala,Raaga,Number of annotated beats,Number of samas,Beats
+1,10003,5769ea2f-aed4-4169-9a20-bae4cb733b8e,1-04_Shri_Visvanatham,Amritha Murali,December Season 2010/CD 1,V,adi,chaturdasha ragamalika,162,21,8
+2,10004,40ecccaf-46d9-42a3-a709-e5202a1e22ec,1_Vathapi,Aneesh Vidyashankar,Pure Expressions,L,adi,hamsadhwani,182,23,8
+3,10005,de94ed93-7399-47e3-aa8e-d77b49d94bd3,2_Jagadanandakaraka,Aneesh Vidyashankar,Pure Expressions,L,adi,nattai,156,20,8
+4,10007,f0a31bd3-983f-4fbe-b715-2ef0ea577158,2-01_Anandamruta_Karshini,Aruna Sairam,Madrasil Margazhi 2005/CD 2,V,adi,amritavarshini,189,24,8
+5,10008,c6758c9e-fd4e-4d55-a250-5283fff6741f,9_Tillana,Bombay Jayashri,Classical Vocal,V,adi,desh,206,26,8
+6,10009,7a97a224-559e-415f-8c52-ae0c44edf39d,1_Varnam_-_Chalamela,Chittibabu,Rendezvous with Legends CD 1,N,adi,natakurinji,162,21,8
+7,10010,15694f58-98c5-4228-bcb9-128247417dc1,3_Swara_Raga,Chittibabu,Rendezvous with Legends CD 1,N,adi,sankarabharanam,188,24,8
+8,10012,e935b811-e08e-4512-911b-a720ffde5a3c,2-02_Sharade_Veena_Vadana,D. K. Jayaraman,Paddhatti - D K Jayaraman - Live In Concert 1990/CD 2,V,adi,devagandhari,147,19,8
+9,10013,4d3bcfe3-892b-43a8-a2ef-1f78a37cf277,1113_Thillana,E. Gayathri,Sound Of Veena,N,adi,sivaranjani,194,25,8
+10,10014,bd40e6c5-5cc5-4cbc-bc6d-5e0df14575ab,1313_Bhagyadalakshmi,E. Gayathri,Sound Of Veena,N,adi,madhyamavathi,284,36,8
+11,10015,52f204cb-1d76-4405-a28a-add970f7f46c,613_Watanala,E. Gayathri,Sound Of Veena,N,adi,lalitha,154,19,8
+12,10016,d2c5f8b2-550d-40de-a06e-67df57203bc9,713_Kapali,E. Gayathri,Sound Of Veena,N,adi,mohanam,180,23,8
+13,10019,b432b862-c0ec-44ef-a176-231396fd6e7a,04_Brochevarevarura,G. N. Balasubramaniam,Carnatic Vocal (1910 - 1965),V,adi,kamas,194,25,8
+14,10021,e27d0605-1426-45a4-b34f-a9520742cf53,2_Maa_Pala,Ganesh - Kumaresh,Live Concert,L,adi,asaveri,178,23,8
+15,10023,ad1dd589-a6d7-4f2a-bfd6-356e29c5eb66,6_Thaye_Yesoda,Jayalakshmi Sekhar,Oothukkadu Kritis,N,adi,thodi,145,19,8
+16,10025,d2644d0e-dd99-4174-9447-dd67db2554a7,8_Kurai_Ondrum,Kadri Gopalnath,Chidanandam,S,adi,ragamalika,167,21,8
+17,10026,2400a42f-6ba9-4a5d-a968-d0454314a7d7,2_Adi_Talam,L. Subramaniam,Tala Vadya,M,adi,-NA-,201,26,8
+18,10027,3e1cae5c-5dd0-4d64-9e41-f5beef59cf05,1-01_Varnam,Lalgudi G. Jayaraman,Nada Sagaram/CD 1,L,adi,shree,158,20,8
+19,10028,4aff200c-1415-4b41-9ecb-6b3fff9074c1,1_Varnam,Lalgudi G. Jayaraman,Violin,L,adi,nalinakanthi,169,22,8
+20,10031,1f97eafa-aa10-48d1-8739-3f5aed90a650,7_Samaja_Vara_Gamana,M. S. Gopalakrishnan,Violin Melody,L,adi,hindolam,154,20,8
+21,10034,6a58af7a-8fbd-452f-bee2-44f1e64c7e60,3_Maamavthu_Shree,N. Ramani,Flute,F,adi,hindolam,173,22,8
+22,10039,b66568ca-28cf-4589-80cb-ed2e03bffbfe,2_Swaraavali,P. Unnikrishnan,Sangeeta Lahari,V,adi,todi,169,22,8
+23,10040,cd7cc258-11cc-4c77-a045-0c89f320bbb0,4_Mohanakrishnana,P. Unnikrishnan,Sangeeta Lahari,V,adi,mohanam,160,20,8
+24,10041,631873f5-6bf6-4ce8-973b-8eea59b87a02,7_Jaawali_Praana_naathan,P. Unnikrishnan,Sangeeta Lahari,V,adi,abhogi,170,22,8
+25,10042,2a20e9c7-aa92-42c1-a6fb-db535c9830fc,02_Narayanathe_Namonamo,Shashank,Moksha,F,adi,behag,159,20,8
+26,10043,b8be0d4a-4d99-43a1-bfaa-3214c178fe2a,1_Jalajakshi_Varnam,Sikkil Mala Chandrasekhar,Resonance Flute Concert,F,adi,hamsadhwani,223,28,8
+27,10047,e31eab59-1efd-42eb-9485-248cf3682ae7,2-04_Mangalam,T. M. Krishna,Madrasil Margazhi 2006/CD 2,V,adi,sourashtram,168,21,8
+28,10048,a899e45e-b7ba-40d3-be00-fe4f35351f09,02_Karumugil_Vannam_-Badrinath,T. M. Krishna,Vaishnava Ksetra,V,adi,shree ranjani,161,21,8
+29,10049,33f3a6c1-fa4e-44e3-a712-d1737ec08957,2_Akhilandeswari,T. N. Krishnan,Carnatic Instrumental - Violin,L,adi,dwijavanthi,179,23,8
+30,10050,6b9b4796-4285-4dde-b9ce-396f9138ee19,7_Thillana_(Live)_Carnatic_Violi,T. N. Krishnan,Carnatic Instrumental - Violin,L,adi,sindhu bhairavi,320,40,8
+1,11001,fe63aa10-bfa0-4dc6-9845-e57811c2feaa,3_Sankari_Neeve,Bombay Jayashri,Classical Vocal,V,rupakam,begada,153,51,3
+2,11004,dd885969-c9d8-4888-88d3-ad8960149346,2_Ninnuvina,Chittibabu,Rendezvous with Legends CD 2,N,rupakam,navarasa kannada,240,80,3
+3,11005,3c91e959-5292-4b7a-a5c7-36bb77684169,5_Nadaloludai,Chittibabu,Rendezvous with Legends CD 2,N,rupakam,kalyana vasantham,151,51,3
+4,11006,38ebd057-ce02-448c-83e4-0cb7938e8288,48_Sendhil_Aandavan,D. K. Jayaraman,D. K. Jayaraman - Vocal,V,rupakam,karaharapriya,167,56,3
+5,11007,8a9d6704-00f8-4864-8beb-d3f72d0012bf,1-01_Nee_Bhakthi,D. K. Jayaraman,Gangadheeswaram/CD 1,V,rupakam,jayamanohari,182,61,3
+6,11008,aacd01bf-c55b-4e29-8400-010a44bdce9a,1-02_Sri_Kanchi_Nayike,D. K. Jayaraman,Gangadheeswaram/CD 1,V,rupakam,asaveri,145,49,3
+7,11010,cb5c57d4-0a80-4ad2-ab33-354b81557a84,113_Pahi_Pahi,E. Gayathri,Sound Of Veena,N,rupakam,hamsashwani,162,54,3
+8,11011,e78556e6-b112-4624-850b-7cbaf688faf2,313_Kaya_Roshanesham,E. Gayathri,Sound Of Veena,N,rupakam,abheri,153,51,3
+9,11013,6de4f1c8-a32c-4ee0-9220-9108dcfdf67f,3_Kamakshi,Ganesh - Kumaresh,Live Concert,L,rupakam,simhendra madhyamam,188,63,3
+10,11014,a432ceec-0c04-485b-bef1-75e222068201,07_Thillana,K. V. Narayanaswami,Master Piece - Live Concert at Sri Krishna Gana Sabha 1984 Vol. III,V,rupakam,poorvi kalyani,192,64,3
+11,11015,d42249e4-8889-4b34-a963-c99a674ddcf0,2_Sabapathy,Kadri Gopalnath,Chidanandam,S,rupakam,abhogi,174,58,3
+12,11016,a0194582-020b-465b-b61e-c9fc03a8e09a,1-03_Shankarineeve,Lalgudi G. Jayaraman,Nada Sagaram/CD 1,L,rupakam,begada,181,61,3
+13,11018,09ff223f-788a-40ed-b135-13c7b07aefe5,1_Vallabha_Nayakasya,M. S. Gopalakrishnan,Violin Melody,L,rupakam,begada,158,53,3
+14,11019,fce494df-b99a-4a9e-88e3-381dbe009d95,6_Lavanya_Rama,M. S. Gopalakrishnan,Violin Melody,L,rupakam,poorna shadjam,159,53,3
+15,11020,49039ca4-4ece-426a-a358-70a61d8f25f2,1-03_Narada_Muni,M.L. Vasanthakumari,Maestro in Concert/CD 1,V,rupakam,pantuvarali,190,64,3
+16,11022,88166f7e-a85d-4c7a-91ec-2f16831b7e79,01_Maya_Tita_Swaroopini,M D Ramanathan,Classical Vocal,V,rupakam,mayamalavagowla,142,48,3
+17,11023,e6eeb05b-ce52-4938-acc4-11fe59ed86f6,1-04_Nadaloludai,Nithyasree Mahadevan,Memorable Concerts From Rfa's September Season 2009/CD 1,V,rupakam,kalyanavasantam,156,52,3
+18,11027,41a138f7-59a4-4ef9-ae37-5b9fd097269c,2_Santhana_Gopalakrishnam,Sanjay Subrahmanyan,Compositions Of Muthuswami Dikshitar,V,rupakam,khamas,161,54,3
+19,11028,5226b897-06fc-4032-9766-66e5b19e74fb,1-02_Re_Re_Manasa_Bhajare,Sanjay Subrahmanyan,December Season 2010 - Concert 1/CD 1,V,rupakam,nata,161,54,3
+20,11029,560fe16b-6585-4eb5-94f4-92fffb7a481d,6-02_Raagaratna_malikache,Sanjay Subrahmanyan,December Season 2010 - Concert 3/CD 1,V,rupakam,reethigowla,169,57,3
+21,11033,5c046343-cde4-4487-9450-ab1bf3b1ce53,2_Korinavara,Sanjay Subrahmanyan,Live Waves from Melbourne,V,rupakam,ramapriya,170,57,3
+22,11035,53c5f188-cd46-46fc-a59d-32e05a6ae985,1_Vallabha_Nayakasya,Semmangudi R. Srinivas Iyer,Vocal,V,rupakam,begada,175,59,3
+23,11036,50a1bca8-bc3d-4e20-b2a5-db94bdd29aad,3_Sobhillu_Sapthaswara,Sikkil Mala Chandrasekhar,Resonance Flute Concert,F,rupakam,jaganmohini,186,62,3
+24,11038,a2b822ce-4594-4f3f-85b6-c41c5269c593,4_Sambho_Mahadeva,Sowmya,Carnatic Vocal,V,rupakam,pantuvarali,163,54,3
+25,11041,91517732-ab95-4b42-8bef-93c065cd7018,4_Maathangisri,Sudha Ragunathan,Carnatic Vocal,V,rupakam,rama manohari,162,54,3
+26,11042,0edbc0b8-fbe9-4b24-9865-2d90d278af34,7_Pazhani,Sudha Ragunathan,Carnatic Vocal,V,rupakam,kaapi,155,52,3
+27,11045,ff4d2d32-d293-41d9-b5db-1efd53bc952e,1-05_Garuda_Gamana,T. M. Krishna,Madrasil Margazhi 2006/CD 1,V,rupakam,nagasvarali,196,66,3
+28,11048,4db4512e-76c6-4fed-ae8d-fe9db39bda20,1-01_Gam_Ganapathe,Vijay Siva,Madrasil Margazhi 2006/CD 1,V,rupakam,hamsadhvani,200,67,3
+29,11049,569b8358-b318-409f-a8e8-1da724f01809,2-01_Enta_ninne,Vijay Siva,Madrasil Margazhi 2006/CD 2,V,rupakam,mukhari,184,62,3
+30,11050,2a8bb9e0-f048-4c12-9e75-407b0c828995,2-05_Madar_Pirai,Vijay Siva,Madrasil Margazhi 2006/CD 2,V,rupakam,navroj,173,58,3
+1,12001,d1d587b9-7bdc-4bbf-a55b-22c8a0da7e12,8_Krishna_Nee_Begane,Aneesh Vidyashankar,Pure Expressions,L,mishraChapu,yeman kalyani,310,45,7
+2,12003,b788cb93-770b-4dcb-bca3-1ebaa3ecf38a,2-02_Pakkala_Nilabadi,Amritha Murali,December Season 2010/CD 2,V,mishraChapu,kharaharapriya,305,44,7
+3,12004,93453f59-c459-4602-b75b-aa87aeb2914f,2-04_Viruttam_-_Drishou_Bhavaan_&_Taruni_Nyan_&_Mangalam,Amritha Murali,December Season 2010/CD 2,V,mishraChapu,dwijavanthi,274,40,7
+4,12006,3baa722d-480e-4ae7-8559-a88dce41e1d4,1-04_Kamalamba,Aruna Sairam,Madrasil Margazhi 2005/CD 1,V,mishraChapu,anandabhairavi,265,38,7
+5,12007,d590b043-cf97-4488-bf24-f09db3acda08,03_Thirukathuvam,Aruna Sairam,Madrasil Margazhi 2006/CD 1,V,mishraChapu,nattakurinji,239,35,7
+6,12008,d17fc49c-5c9a-4dd2-9e1e-334078473e63,4_Muruga_Muruga,Bombay Jayashri,Classical Vocal,V,mishraChapu,saveri,277,40,7
+7,12009,357fc51a-8a88-40c6-8649-36e9e5f9e9e9,1-03_Sri_Matrubhutam,Bombay Jayashri,Madrasil Margazhi 2006/CD 1,V,mishraChapu,kannada,342,49,7
+8,12011,3dec9738-d123-4d75-b278-58c8250832b3,04_Visalakshi,D. K. Pattammal,Paddhatti - Sangeeta Kalanidhi D K Pattammal - Live in Concert 1977 Vol. I,V,mishraChapu,pantuvarali,321,46,7
+9,12012,4a6812e7-86d5-41a0-a780-4b8a5cd3a6fa,413_Kamakshi,E. Gayathri,Sound Of Veena,N,mishraChapu,varali,293,42,7
+10,12015,72f1c5a9-91a1-4b62-976f-7af979f8c763,3_Pakkala_Nilapadi,K. V. Narayanaswami,Collectors Choice,V,mishraChapu,karaharapriya,347,50,7
+11,12018,d030123a-ab65-40ea-85a6-36b98da459f7,2-01_Ninne_Nammiti,K. V. Narayanaswami & N Ramani,"Paddhatti - K V Narayanaswamy & Dr N Ramani - Live in Concert at Cleveland, Ohio 1983/Vol. II",V,mishraChapu,simhendramadhyamam,305,44,7
+12,12019,9838a0b5-29f0-49bf-b79b-d499d90fdc0e,2-02_Muruga_Muruga,K. V. Narayanaswami & N Ramani,"Paddhatti - K V Narayanaswamy & Dr N Ramani - Live in Concert at Cleveland, Ohio 1983/Vol. II",V,mishraChapu,saveri,268,39,7
+13,12020,3a481433-3451-47f5-8868-6fe79b823127,1-02_Sri_Mahaganapathi,Lalgudi G. Jayaraman,Nada Sagaram/CD 1,L,mishraChapu,gowla,387,56,7
+14,12023,974b7eb2-40ad-4878-8c52-2d3701aa1598,1-05_Janani_Ninuvina,M.L. Vasanthakumari,Maestro in Concert/CD 1,V,mishraChapu,reethigowla,314,45,7
+15,12026,a8fa188e-4be8-4499-bce1-a9ab37df74ff,3_Vandheham_Sharadham,Maharajapuram Santhanam,Bhajans - Swami Dayananda Saraswathi,V,mishraChapu,yamankalyan,296,43,7
+16,12028,85832a2f-f4e1-453d-b3a5-f129c86fde9c,2-01_Innamum,P. Unnikrishnan,Madrasil Margazhi 2007 - The Music Academy Concerts/CD 2,V,mishraChapu,keeravani,317,46,7
+17,12029,37720d91-a434-4630-b448-874b90f6089e,3_Sree_Ganesha,P. Unnikrishnan,Sangeeta Lahari,V,mishraChapu,ragamalika,324,47,7
+18,12032,98b8d96f-9700-49f7-b30d-984ccf9294fd,04_Endraikku_Sivakrupai,Ranjani-Gayatri,Gems Of Carnatic Music - Live In Concert 2004,V,mishraChapu,mukhari,270,39,7
+19,12033,028528cc-9b4f-44b7-afb2-5c778a24adcb,9_Laali,S. Ramanathan,Tyagaraja's Utsava Sampradaya Kritis,V,mishraChapu,sahana,324,47,7
+20,12034,e921c369-019b-4349-b18a-4fd878271fb1,2_Janani_Ninnuvina,Semmangudi R. Srinivas Iyer,Vocal,V,mishraChapu,ritigowla,317,46,7
+21,12035,507c8fee-0844-4602-82d9-2cb131d06c84,1_Nidhichala,Sowmya,Bharat Sangeet Utsav,V,mishraChapu,kalyani,312,45,7
+22,12036,1c3d8526-6692-46f5-a00a-92dddbead9ff,2_Yarukkahilum,Sowmya,Bharat Sangeet Utsav,V,mishraChapu,begada,273,39,7
+23,12037,7cd313af-89ea-480e-92a1-e25789a9d076,03_Ni_Cittamu,Sumithra Vasudev,Tasmai Sri Gurave Namaha,V,mishraChapu,dhanyasi,288,42,7
+24,12042,49b39a9e-757f-4c8b-88e1-836f7a608277,3_Sri_Mathrubhootham,T. M. Krishna,Carnatic Vocal,V,mishraChapu,kannada,289,42,7
+25,12043,766235e1-3c93-4181-bb7d-31623f3bfd2d,1-04_Anandesvarena,T. M. Krishna,Madrasil Margazhi 2006/CD 1,V,mishraChapu,anandabhairavi,251,36,7
+26,12044,507cb9b4-36c9-449a-a7e5-31d6b26ca1ff,2-02_Navasiddhi_Petralum,T. M. Krishna,Madrasil Margazhi 2006/CD 2,V,mishraChapu,kharaharapriya,277,40,7
+27,12045,bec3b237-0a03-4011-9d8b-394415b0a6b2,08_Aiyan_Azhagan_-_Azhagarkoil,T. M. Krishna,Vaishnava Ksetra,V,mishraChapu,surutti,305,44,7
+28,12046,f2946bb4-e863-422c-9555-47842cfb0dd7,06_Ashtapadi_-_Natha_Hare,T. N. Seshagopalan,The Masterpiece Collection,V,mishraChapu,sankarabharanam,258,37,7
+29,12047,20400fc0-0374-4187-9c21-a34ccf491f9d,1-05_Saranam_Ayyappa,T. V. Sankaranarayanan,December Season 2000/CD 1,V,mishraChapu,mukhari,330,48,7
+30,12048,33d896d2-1a7b-4e5f-9508-c3fb5d228c94,1-03_Mamava_Karunaya,Tanjore S. Kalyanaraman,Live Concert 1974/CD 1,V,mishraChapu,shanmukhapriya,314,45,7
+1,13001,693cf96d-d806-47a7-bb7b-6163a6584e9f,2-02_Hecharikaga,Ariyakudi Ramanuja Iyengar,"Live at Mullakkal Temple, Alleppey /CD 2",V,khandaChapu,yadukula kamboji,226,46,5
+2,13002,34f12b1d-bb35-48bc-a6c4-ffc4b52f140d,2-02_Muruganin_marupeyar,Abhishek Raghuram,December Season 2009/CD 2,V,khandaChapu,behag,286,58,5
+3,13003,412e0f61-f22d-47f9-81c2-ebb17be7a339,02_Marivere_Dikkevvaru,Abhishek Raghuram,Gems Of Carnatic Music - Live In Concert 2006,V,khandaChapu,lathangi,338,68,5
+4,13004,c81aa59b-bcc7-4199-a27a-0ded0764c8f3,1-01_Pavanatmajagaccha,Amritha Murali,December Season 2010/CD 1,V,khandaChapu,nattai,313,63,5
+5,13005,9bc3bca7-3360-4e6a-9c60-d38bfc2da752,04_Nathupai,Aruna Sairam,Madrasil Margazhi 2006/CD 1,V,khandaChapu,madhyamavati,329,66,5
+6,13006,8b90c893-ff35-440e-80ea-d8ea7efbdff1,8_Kommala_Koila,Chittibabu,Rendezvous with Legends CD 2,N,khandaChapu,maund,316,64,5
+7,13007,89841023-9a2a-4f6c-8cb6-f2d446e813af,513_Amba_Mahavani,E. Gayathri,Sound Of Veena,N,khandaChapu,saraswati manohari,321,65,5
+8,13008,4c754755-b34a-4eac-930d-27e4aef4bd10,1-02_Jaya_Jaya,G. N. Balasubramaniam,Ragamrutham Live at Mysore - 1957/CD 1,V,khandaChapu,nattai,411,83,5
+9,13009,9709590d-cc8c-4da6-84e6-a044756a3b76,5_Om_Namonarayana,Kadri Gopalnath,Chidanandam,S,khandaChapu,kamaranjani,314,63,5
+10,13010,de98f22d-7f58-49c4-946d-ba7e8e4aa69c,07_Bhogindra_Shayinam,M. S. Gopalakrishnan,Live in Sydney,L,khandaChapu,kuntalavarali,389,78,5
+11,13011,fa499e6d-caa1-4ed4-b553-bfe640129e19,4_Marivere,M. S. Gopalakrishnan,Violin Melody,L,khandaChapu,lathangi,319,64,5
+12,13012,2b492949-7b59-4e23-8695-0d6819d29485,1-04_Jaya_Jaya,M.L. Vasanthakumari,Maestro in Concert/CD 1,V,khandaChapu,nattai,371,75,5
+13,13013,b821486b-b734-4c8e-b876-ccb6519d121f,3_Yemaiyyarama,Nedanuri Krishnamurthy,Maestro's Choice,V,khandaChapu,kambhoji,286,58,5
+14,13014,0959d3ab-99a9-4203-928c-8ac5e35b4d84,1-03_Paripalinchu,P. Unnikrishnan,Madrasil Margazhi 2007 - The Music Academy Concerts/CD 1,V,khandaChapu,shuddha saveri,361,73,5
+15,13015,5c9a2570-96d7-47c9-8370-4f3162e8f899,2-05_Sivanar_Manam,Prasanna Venkataraman,December Season 2009/CD 2,V,khandaChapu,kharaharapriya,289,58,5
+16,13016,86283bae-c08d-412a-982b-23498e144758,3-03_Virutham_Kandar_Anubuthi_followed_by_Muruganin_Marupeyar,Ranjani-Gayatri,Memorable Concerts From Rfa's September Season 2009/CD 3,V,khandaChapu,behag,314,63,5
+17,13017,829ee0c7-e7c8-4e3b-abe3-2df5f3f7da7d,10_Laali,S. Ramanathan,Tyagaraja's Utsava Sampradaya Kritis,V,khandaChapu,kedaragaula,301,61,5
+18,13018,10f540e5-1774-428a-85f0-d7de2d8a7780,11_Laali,S. Ramanathan,Tyagaraja's Utsava Sampradaya Kritis,V,khandaChapu,anandabhairavi,561,113,5
+19,13019,45ac02f9-e046-495d-86c7-deac430ca977,13_Pavvalimpu,S. Ramanathan,Tyagaraja's Utsava Sampradaya Kritis,V,khandaChapu,nilambari,257,51,5
+20,13020,049d9e8f-a34c-4da7-aa7d-617584c5c461,16_Melokovayya,S. Ramanathan,Tyagaraja's Utsava Sampradaya Kritis,V,khandaChapu,bowli,296,60,5
+21,13021,0298c72e-5e3c-46d2-abf6-d0559c8b80b7,18_Mangalam,S. Ramanathan,Tyagaraja's Utsava Sampradaya Kritis,V,khandaChapu,ghanta,281,57,5
+22,13022,5423fdaf-e914-49e2-ac8b-b52003b374a6,2_Hechirakaga_Rara,S. Ramanathan,Tyagaraja's Utsava Sampradaya Kritis,V,khandaChapu,yadukulakambhoji,293,59,5
+23,13023,c82417ab-6976-4115-b607-025c4665e5b8,3_Gauri_Kalyana-Kurinji,S. Ramanathan,Tyagaraja's Utsava Sampradaya Kritis,V,khandaChapu,kurinji,299,60,5
+24,13024,5d1e6f5e-a588-461a-afc4-4d42a68e0adb,10-01_Vaa_Velava,Sanjay Subrahmanyan,December Season 2010 - Concert 4/CD 2,V,khandaChapu,tanarupi,304,61,5
+25,13025,aa97b27e-4fd3-4130-865d-77a16ac59246,4_Amma_Ravamma,Sikkil Mala Chandrasekhar,Resonance Flute Concert,F,khandaChapu,kalyani,319,64,5
+26,13026,bbee764d-7406-47ce-821a-a82030b89eca,2_Anupama_Gunambudhi,Sowmya,Bharat Sangeet Utsav,V,khandaChapu,atana,344,69,5
+27,13027,c5e32bf4-2cb1-47fc-a3fd-c855e0e2cd40,1-05_Paridanamiccite,Sumithra Vasudev,December Season 2010/CD 1,V,khandaChapu,bilahari,371,75,5
+28,13028,cc3405b1-cca6-40e3-bdf7-34ba49af6872,1-02_Purandara_Dasa,T. V. Sankaranarayanan,December Season 2000/CD 1,V,khandaChapu,atana,324,65,5
