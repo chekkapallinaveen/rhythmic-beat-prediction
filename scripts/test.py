@@ -17,15 +17,6 @@ def convert_to_wav(file_path):
     return file_path
   else:
     song = AudioSegment.from_file(file_path)
-    song = song.set_channels(1)
-    song = song.set_frame_rate(22050)
-    song = song.set_sample_width(2)
-    song = song.set_channels(1)
-    song = song.set_frame_rate(22050)
-    song = song.set_sample_width(2)
-    song = song.set_channels(1)
-    song = song.set_frame_rate(22050)
-    song = song.set_sample_width(2)
     song.export("temp.wav", format="wav")
     return "temp.wav"
 
@@ -84,9 +75,7 @@ def extract_features(file_path, duration_per_step=0.1, n_fft=1024, n_mfcc=13, ho
 
 in_song = convert_to_wav(in_song)
 
-amps, mags, mfccs, chromas = extract_features(in_song)
-
-features = []
+amps, mags, mfccs, chromas = extract_features(in_song, duration_per_step=0.1, n_fft=1024)
 
 mfccs_new = np.array(mfccs).reshape(1200, 13*5)
 chromas_new = np.array(chromas).reshape(1200, 12*5)
@@ -101,4 +90,12 @@ features = np.array(features).reshape(1, -1)
 def predict_song(features):
   return model.predict(features)
 
-print(lc.inverse_transform(predict_song(features)))
+print("The predicted label is:", lc.inverse_transform(predict_song(features)))
+
+print(predict_song(features))
+
+import pickle
+
+loaded_dt_model = pickle.load(open('/Users/chnaveen/Documents/sem5/music/rhythmic-beat-prediction/scripts/dt_model.pkl', 'rb'))
+
+print(loaded_dt_model.predict(features))
