@@ -1,30 +1,25 @@
 # input the path to the audio file
 # output the predicted label
 
-from joblib import load
-
-model = load('/Users/chnaveen/Documents/sem5/music/rhythmic-beat-prediction/scripts/dt_amp_mag_classifier.joblib')
-lc = load('/Users/chnaveen/Documents/sem5/music/rhythmic-beat-prediction/scripts/label_encoder.joblib')
+import pickle
 
 in_song = input("Enter the path to the audio file: ")
 
-# convert the audio file to the wav format
-from pydub import AudioSegment
-from pydub.utils import make_chunks
-
-def convert_to_wav(file_path):
-  if file_path.endswith('.wav'):
-    return file_path
-  else:
-    song = AudioSegment.from_file(file_path)
-    song.export("temp.wav", format="wav")
-    return "temp.wav"
+# def convert_to_wav(file_path):
+#   if file_path.endswith('.wav'):
+#     return file_path
+#   else:
+#     song = AudioSegment.from_file(file_path)
+#     return song
 
 # data processing and feature extraction
 import librosa
 import numpy as np
 
 def extract_features(file_path, duration_per_step=0.1, n_fft=1024, n_mfcc=13, hop_length=512):
+  
+  print("Extracting features from {}".format(file_path))
+  
   amplitudes = []
   magnitude_spectrograms = []
   mfcc_features = []
@@ -73,8 +68,6 @@ def extract_features(file_path, duration_per_step=0.1, n_fft=1024, n_mfcc=13, ho
 
   return amplitudes, magnitude_spectrograms, mfcc_features, chroma_features
 
-in_song = convert_to_wav(in_song)
-
 amps, mags, mfccs, chromas = extract_features(in_song, duration_per_step=0.1, n_fft=1024)
 
 mfccs_new = np.array(mfccs).reshape(1200, 13*5)
@@ -86,16 +79,11 @@ chromas_new = np.mean(chromas_new, axis=1)
 features = np.hstack((amps, mags, mfccs_new, chromas_new))
 
 features = np.array(features).reshape(1, -1)
-
-def predict_song(features):
-  return model.predict(features)
-
-print("The predicted label is:", lc.inverse_transform(predict_song(features)))
-
-print(predict_song(features))
+print(features.shape)
 
 import pickle
 
-loaded_dt_model = pickle.load(open('/Users/chnaveen/Documents/sem5/music/rhythmic-beat-prediction/scripts/dt_model.pkl', 'rb'))
+with open('/Users/chnaveen/Documents/sem5/music/rhythmic-beat-prediction/scripts/dt_amp_mag_classifier.pkl', 'rb') as f:
+  loaded_dt_model = pickle.load(f)
 
 print(loaded_dt_model.predict(features))
